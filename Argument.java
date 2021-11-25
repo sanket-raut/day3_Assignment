@@ -23,5 +23,6 @@ public class Argument
             a = b;
             b = nextterm;
         }
+		System.out.println("thank you.")
     }
 }
