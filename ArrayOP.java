@@ -24,6 +24,7 @@ public class ArrayOP {
         {
             System.out.print(i+" ");
         }
+		System.out.println("...................................")
     }
 
 }
