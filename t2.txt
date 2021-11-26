@@ -1,2 +1,2 @@
 file 2
-updating file in main branch.
+updating file 2 in main branch
